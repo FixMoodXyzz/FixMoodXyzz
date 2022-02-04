@@ -6,9 +6,9 @@
 ### 🦅 My Indentity
 <p align="center">
 
-⬣ My Name is Taufik 
-⬣ I am 15 Years Old 
-⬣ I am Not Programmer
+- My Name is Taufik 
+- I am 15 Years Old 
+- I am Not Programmer
 
 </p>
 
