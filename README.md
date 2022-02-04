@@ -3,13 +3,10 @@
   <img src="https://i.ibb.co/JvPMNZ1/a2f6d8cc28720a48657734a51a54ce4f.jpg" />
 </p>
 
-### My Indentity
 <p align="center">
 
 ⬣ My Name Is Taufik
-
 ⬣️ I am 15 Years Old 
-
 ⬣ I am Not Programmer
 
 </p>
